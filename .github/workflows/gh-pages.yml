@@ -1,5 +1,3 @@
-#https://github.com/peaceiris/actions-hugo#%EF%B8%8F-workflow-for-autoprefixer-and-postcss-cli
-
 name: GitHub Pages
 
 on:
