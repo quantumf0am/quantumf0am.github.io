@@ -1,6 +1,6 @@
 baseURL = 'https://quantumf0am.github.io/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'My New Hugo Site With Docsy!'
 
 [module]
   proxy = "direct"
