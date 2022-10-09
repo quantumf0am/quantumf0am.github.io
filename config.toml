@@ -25,8 +25,17 @@ title = 'My New Hugo Site With Docsy!'
   #post = "<span class='alert'>New!</span>" #adds a 'new' tag to this icon
 
 [params]
+  #TODO - Find out what this does.
   github_repo = "https://github.com/quantumf0am/quantumf0am.github.io"
 
 [params.ui]
   #disable the 'about' in the footer
   footer_about_disable = true
+
+[params.links]
+  #developer links show in the right side of the footer
+  #user links show in the left side of the footer
+  [[params.links.developer]]
+    name = "GitHub"
+    url = "https://github.com/quantumf0am/quantumf0am.github.io"
+    icon = "fab fa-github"
